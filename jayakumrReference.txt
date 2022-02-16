@@ -1,0 +1,39 @@
+https://youtu.be/frCsGK4cKks
+Build Coinbase Blockchain Web 3.0 App with Next.js | Sanity.io | thirdweb
+In this tutorial, you're gonna be building the Coinbase Blockchain Web 3.0 App using Next JS, Sanity.io, thirdweb, Styled Components, and Vercel 🔥
+
+Get early access to thirdweb 👉  https://thirdweb.com/start?utm_source...
+
+Get the free boosted plan with Sanity 👉  https://www.sanity.io/cleverprogrammer
+
+🗄️ Link to the assets: https://drive.google.com/drive/folder...
+
+🔗 GitHub Repo: https://github.com/drakosi99/coinbase...
+
+You'll be learning about:
+
+👉  Building a Web 3.0 Application with Next JS
+👉  Styling your app using Styled Components
+👉  Create and mint your own Cryptocurrency Tokens using the thirdweb SDK
+👉  Adding Web 3.0 authentication using Metamask
+👉  Storing data and information about the tokens you created in Sanity.io 
+👉  Using GROQ to retrieve data from Sanity Studio and display it in your Web 3.0 App
+👉  Creating a send and receive functionality for your tokens on the blockchain
+👉  Deploy and host the app on Vercel 
+
+Buckle up, buttercup 🚀
+
+github>npx create-next-app@latest coinbase-blockchain-app 
+
+>yarn dev (video time 0:05:30)
+
+>npm install -g @sanity/cli 
+ >sanity init
+
+npm install -g @sanity/cli
+sanity init --coupon cleverprogrammer
+coinbase-blockchain-app /studio>sanity start
+coinbase-blockchain-app >yarn add @sanity/client 
+coinbase-blockchain-app >yarn add @sanity/image-url
+coinbase-blockchain-app >yarn add @s3rdweb/react @3rdweb/hooks @3rdweb/sdk (video time 0:30:12)
+coinbase-blockchain-app >yarn add styled-components
