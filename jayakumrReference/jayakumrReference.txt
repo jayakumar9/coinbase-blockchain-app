@@ -43,4 +43,4 @@ coinbase-blockchain-app >yarn add styled-components
 coinbase-blockchain-app >yarn add react-icons 
 
 
-
+coinbase-blockchain-app >yarn add react-chartjs-2 (video time: 1:32:06)
