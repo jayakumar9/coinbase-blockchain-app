@@ -37,3 +37,10 @@ coinbase-blockchain-app >yarn add @sanity/client
 coinbase-blockchain-app >yarn add @sanity/image-url
 coinbase-blockchain-app >yarn add @s3rdweb/react @3rdweb/hooks @3rdweb/sdk (video time 0:30:12)
 coinbase-blockchain-app >yarn add styled-components
+
+    // add static,assets folder as per video time 0:50:00 
+    then install below dependencies as per video time 0:51:37 
+coinbase-blockchain-app >yarn add react-icons 
+
+
+

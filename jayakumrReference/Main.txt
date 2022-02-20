@@ -1,0 +1,27 @@
+// create Main.js under components folder(video time:)
+=====================================================
+import React from "react";
+import Portfolio from './Portfolio'
+import styled from 'styled-components'
+
+const Main = () => {
+    return (
+        <Wrapper>
+            <Porfolio/>
+            
+        </Wrapper>
+    )
+}
+
+export default Main
+
+
+const Wrapper = styled.div{
+    display: flex;
+    max-height: calc(100% - 64px);
+    overflow: hidden;
+    
+    & div {
+        border-radius: 0.4rem;
+    }
+  }
